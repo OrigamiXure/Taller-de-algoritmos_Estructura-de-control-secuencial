@@ -1,0 +1,133 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="DkFpcBymV3nbuC1lv6oa">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7KhblQo18F30oXzqdMpe-15" edge="1" parent="1" source="mHn6vXJ3mOUI_Ei-lNP_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mHn6vXJ3mOUI_Ei-lNP_-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mHn6vXJ3mOUI_Ei-lNP_-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-18" edge="1" parent="1" source="mHn6vXJ3mOUI_Ei-lNP_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mHn6vXJ3mOUI_Ei-lNP_-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mHn6vXJ3mOUI_Ei-lNP_-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar el promedio de la calificación de las tareas de matemáticas" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-16" edge="1" parent="1" source="mHn6vXJ3mOUI_Ei-lNP_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mHn6vXJ3mOUI_Ei-lNP_-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mHn6vXJ3mOUI_Ei-lNP_-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Promedio tareas matemática = 10%, Examen matemáticas = 90%, Promedio tareas física = 20%, Examen física = 80%, Promedio tareas química = 15%, Examen química = 85%" vertex="1">
+          <mxGeometry height="80" width="240" x="580" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-17" edge="1" parent="1" source="mHn6vXJ3mOUI_Ei-lNP_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mHn6vXJ3mOUI_Ei-lNP_-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mHn6vXJ3mOUI_Ei-lNP_-5" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingresa el promedio de la calificación de las tareas de matemáticas&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-19" edge="1" parent="1" source="mHn6vXJ3mOUI_Ei-lNP_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mHn6vXJ3mOUI_Ei-lNP_-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mHn6vXJ3mOUI_Ei-lNP_-6" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingresa la calificación del examen de matemáticas&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-20" edge="1" parent="1" source="mHn6vXJ3mOUI_Ei-lNP_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mHn6vXJ3mOUI_Ei-lNP_-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mHn6vXJ3mOUI_Ei-lNP_-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar la calificación del examen de matemáticas" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-21" edge="1" parent="1" source="mHn6vXJ3mOUI_Ei-lNP_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7KhblQo18F30oXzqdMpe-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mHn6vXJ3mOUI_Ei-lNP_-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula la calificación final de matemáticas en base a la formula Calificación matemáticas = (Promedio calificación tareas matemática * 10%) + (Examen matemática * 90%)" vertex="1">
+          <mxGeometry height="80" width="220" x="590" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-22" edge="1" parent="1" source="7KhblQo18F30oXzqdMpe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7KhblQo18F30oXzqdMpe-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-1" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;La calificación final de matemáticas&amp;nbsp;es: n" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-24" edge="1" parent="1" source="7KhblQo18F30oXzqdMpe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7KhblQo18F30oXzqdMpe-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar el promedio de la calificación de las tareas de fisica" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-23" edge="1" parent="1" source="7KhblQo18F30oXzqdMpe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7KhblQo18F30oXzqdMpe-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-3" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingresa el promedio de la calificación de las tareas de fisica&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-25" edge="1" parent="1" source="7KhblQo18F30oXzqdMpe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7KhblQo18F30oXzqdMpe-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-4" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingresa la calificación del examen de fisica&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-26" edge="1" parent="1" source="7KhblQo18F30oXzqdMpe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7KhblQo18F30oXzqdMpe-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar la calificación del examen de fisica" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-27" edge="1" parent="1" source="7KhblQo18F30oXzqdMpe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7KhblQo18F30oXzqdMpe-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula la calificación final de física en base a la formula Calificación física = (Promedio calificación tareas física * 20%) + (Examen física * 80%)" vertex="1">
+          <mxGeometry height="80" width="220" x="590" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-30" edge="1" parent="1" source="7KhblQo18F30oXzqdMpe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7KhblQo18F30oXzqdMpe-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar el promedio de la calificación de las tareas de química" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-29" edge="1" parent="1" source="7KhblQo18F30oXzqdMpe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7KhblQo18F30oXzqdMpe-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-8" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingresa el promedio de la calificación de las tareas de química&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-31" edge="1" parent="1" source="7KhblQo18F30oXzqdMpe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7KhblQo18F30oXzqdMpe-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-9" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingresa la calificación del examen de química&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="1960" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-32" edge="1" parent="1" source="7KhblQo18F30oXzqdMpe-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7KhblQo18F30oXzqdMpe-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar la calificación del examen de química" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-33" edge="1" parent="1" source="7KhblQo18F30oXzqdMpe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7KhblQo18F30oXzqdMpe-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula la calificación final de matemáticas en base a la formula Calificación química = (Promedio calificación tareas química * 15%) + (Examen química * 85%)" vertex="1">
+          <mxGeometry height="80" width="220" x="590" y="2200" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-28" edge="1" parent="1" source="7KhblQo18F30oXzqdMpe-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7KhblQo18F30oXzqdMpe-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-12" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;La calificación final de física es: n&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-36" edge="1" parent="1" source="7KhblQo18F30oXzqdMpe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7KhblQo18F30oXzqdMpe-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-13" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;La calificación final de química es: n&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="7KhblQo18F30oXzqdMpe-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Fin" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="2440" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="nyzqCJOKUn87_M_geuZa">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xpGVYIBlVCfQed0Mgwb8-14" edge="1" parent="1" source="xpGVYIBlVCfQed0Mgwb8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xpGVYIBlVCfQed0Mgwb8-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xpGVYIBlVCfQed0Mgwb8-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xpGVYIBlVCfQed0Mgwb8-15" edge="1" parent="1" source="xpGVYIBlVCfQed0Mgwb8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xpGVYIBlVCfQed0Mgwb8-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xpGVYIBlVCfQed0Mgwb8-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Presupuesto, Ginecología = 40%, Traumatología = 30%, Pediatría = 30%" vertex="1">
+          <mxGeometry height="80" width="160" x="340" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xpGVYIBlVCfQed0Mgwb8-16" edge="1" parent="1" source="xpGVYIBlVCfQed0Mgwb8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xpGVYIBlVCfQed0Mgwb8-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xpGVYIBlVCfQed0Mgwb8-4" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingrese el presupuesto del hospital&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="xpGVYIBlVCfQed0Mgwb8-17" edge="1" parent="1" source="xpGVYIBlVCfQed0Mgwb8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xpGVYIBlVCfQed0Mgwb8-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xpGVYIBlVCfQed0Mgwb8-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar el presupuesto del hospital" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="xpGVYIBlVCfQed0Mgwb8-18" edge="1" parent="1" source="xpGVYIBlVCfQed0Mgwb8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xpGVYIBlVCfQed0Mgwb8-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xpGVYIBlVCfQed0Mgwb8-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el presupuesto para ginecología en base a la formula Ginecología = Presupuesto * 40%" vertex="1">
+          <mxGeometry height="80" width="140" x="350" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="xpGVYIBlVCfQed0Mgwb8-19" edge="1" parent="1" source="xpGVYIBlVCfQed0Mgwb8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xpGVYIBlVCfQed0Mgwb8-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xpGVYIBlVCfQed0Mgwb8-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el presupuesto para traumatología en base a la formula Traumatología = Presupuesto * 30%" vertex="1">
+          <mxGeometry height="80" width="140" x="350" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="xpGVYIBlVCfQed0Mgwb8-20" edge="1" parent="1" source="xpGVYIBlVCfQed0Mgwb8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xpGVYIBlVCfQed0Mgwb8-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xpGVYIBlVCfQed0Mgwb8-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el presupuesto para pediatría en base a la formula Pediatría = Presupuesto * 30%" vertex="1">
+          <mxGeometry height="80" width="140" x="350" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="xpGVYIBlVCfQed0Mgwb8-21" edge="1" parent="1" source="xpGVYIBlVCfQed0Mgwb8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xpGVYIBlVCfQed0Mgwb8-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xpGVYIBlVCfQed0Mgwb8-10" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El presupuesto para ginecología es: n" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="xpGVYIBlVCfQed0Mgwb8-22" edge="1" parent="1" source="xpGVYIBlVCfQed0Mgwb8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xpGVYIBlVCfQed0Mgwb8-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xpGVYIBlVCfQed0Mgwb8-11" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El presupuesto para traumatología es: n" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="xpGVYIBlVCfQed0Mgwb8-23" edge="1" parent="1" source="xpGVYIBlVCfQed0Mgwb8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xpGVYIBlVCfQed0Mgwb8-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xpGVYIBlVCfQed0Mgwb8-12" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El presupuesto para pediatría es: n&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="xpGVYIBlVCfQed0Mgwb8-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Fin" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

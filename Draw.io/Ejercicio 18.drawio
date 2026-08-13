@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="NYQBwXTBf1IL573H35WH">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5bBmFHobHfq7Y-DR1uRN-10" edge="1" parent="1" source="5bBmFHobHfq7Y-DR1uRN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5bBmFHobHfq7Y-DR1uRN-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5bBmFHobHfq7Y-DR1uRN-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5bBmFHobHfq7Y-DR1uRN-12" edge="1" parent="1" source="5bBmFHobHfq7Y-DR1uRN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5bBmFHobHfq7Y-DR1uRN-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5bBmFHobHfq7Y-DR1uRN-2" parent="1" style="shape=display;whiteSpace=wrap;html=1;size=0.25;" value="&quot;Ingresa la cantidad de galones&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="5bBmFHobHfq7Y-DR1uRN-11" edge="1" parent="1" source="5bBmFHobHfq7Y-DR1uRN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5bBmFHobHfq7Y-DR1uRN-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5bBmFHobHfq7Y-DR1uRN-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Galones" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5bBmFHobHfq7Y-DR1uRN-13" edge="1" parent="1" source="5bBmFHobHfq7Y-DR1uRN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5bBmFHobHfq7Y-DR1uRN-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5bBmFHobHfq7Y-DR1uRN-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar la cantidad de galones" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="5bBmFHobHfq7Y-DR1uRN-14" edge="1" parent="1" source="5bBmFHobHfq7Y-DR1uRN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5bBmFHobHfq7Y-DR1uRN-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5bBmFHobHfq7Y-DR1uRN-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula la cantidad de litros en base a la formula Litros = Galones * 3.785" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="5bBmFHobHfq7Y-DR1uRN-15" edge="1" parent="1" source="5bBmFHobHfq7Y-DR1uRN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5bBmFHobHfq7Y-DR1uRN-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5bBmFHobHfq7Y-DR1uRN-6" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;La cantidad de litros es: n litros&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="5bBmFHobHfq7Y-DR1uRN-16" edge="1" parent="1" source="5bBmFHobHfq7Y-DR1uRN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5bBmFHobHfq7Y-DR1uRN-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5bBmFHobHfq7Y-DR1uRN-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;Se calcula el precio del galón en base a la formula Precio galón = Litros * 100" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="5bBmFHobHfq7Y-DR1uRN-17" edge="1" parent="1" source="5bBmFHobHfq7Y-DR1uRN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5bBmFHobHfq7Y-DR1uRN-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5bBmFHobHfq7Y-DR1uRN-8" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El precio por galón es: n Bolivares&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="5bBmFHobHfq7Y-DR1uRN-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Fin" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1000" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

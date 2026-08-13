@@ -1,0 +1,181 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="pBTx6L-THul_GABENUEE">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-31" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-32" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Billetes1, Billetes2, Billetes3, Billetes4, Billetes5, Blletes6, Billetes7, Billetes8" vertex="1">
+          <mxGeometry height="80" width="135" x="350" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-34" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar la cantidad de billetes de 50000" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-33" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-4" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingrese la cantidad de billetes de 50000&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-36" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar la cantidad de billetes de 2&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22Digitar%20la%20cantidad%20de%20billetes%20de%2050000%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2280%22%20width%3D%22120%22%20x%3D%22360%22%20y%3D%22400%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20parent%3D%221%22%20style%3D%22shape%3Ddisplay%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22%26quot%3BIngrese%20la%20cantidad%20de%20billetes%20de%2050000%26quot%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2280%22%20width%3D%22120%22%20x%3D%22360%22%20y%3D%22280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;0000" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-35" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-6" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingrese la cantidad de billetes de 20000&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-38" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar la cantidad de billetes de 10000" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-37" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-8" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingrese la cantidad de billetes de 10000&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-40" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar la cantidad de billetes de 5000" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-39" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-10" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingrese la cantidad de billetes de 5000&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-42" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar la cantidad de billetes de 2000" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-41" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-12" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingrese la cantidad de billetes de 2000&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-44" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar la cantidad de billetes de 1000" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-43" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-14" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingrese la cantidad de billetes de 1000&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-46" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar la cantidad de billetes de 500" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-45" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-16" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingrese la cantidad de billetes de 500&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-48" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar la cantidad de billetes de 100" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-47" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-18" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingrese la cantidad de billetes de 100&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1960" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-49" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula la cantidad de billetes de 50000 en base a la formula Billetes1 = Billetes1 * 50000" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="2200" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-50" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula la cantidad de billetes de 20000 en base a la formula Billetes2 = Billetes2 * 20000" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-51" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula la cantidad de billetes de 10000 en base a la formula Billetes3 = Billetes3 * 10000" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="2440" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-52" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula la cantidad de billetes de 5000 en base a la formula Billetes4 = Billetes4 * 5000" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="2560" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-53" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula la cantidad de billetes de 2000 en base a la formula Billetes5 = Billetes5 * 2000" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="2680" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-54" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula la cantidad de billetes de 1000 en base a la formula Billetes6 = Billetes6 * 1000" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="2800" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-55" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula la cantidad de billetes de 500 en base a la formula Billetes7 = Billetes7 * 500" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="2920" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-56" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula la cantidad de billetes de 100 en base a la formula Billetes8 = Billetes8 * 100" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="3040" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-57" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el total de dinero en base a la formula Total = Billetes1 + Billetes2 + Billetes3 + Billetes4 + Billetes5 + Billetes6 + Billetes7 + Billetes8" vertex="1">
+          <mxGeometry height="80" width="180" x="330" y="3160" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-58" edge="1" parent="1" source="KRlasrb0A_A3tVdQaa4Y-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KRlasrb0A_A3tVdQaa4Y-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-28" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El total de dinero en el cajero es: n&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="3280" as="geometry" />
+        </mxCell>
+        <mxCell id="KRlasrb0A_A3tVdQaa4Y-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Fin" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="3400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,181 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="5v1cW2-cHihHuSfDV1d-">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-30" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-33" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digita el numero de horas normales trabajadas" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-32" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-3" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingresa el número de horas normales trabajadas&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-31" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Hora normal, Hora extra, Precio hora, Actualización académica = 25000 Bolívares, Cantidad hijos, Bono por hijo = 17300 Bolívares, Prima hogar = 18000 Bolívares&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="220" x="590" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-34" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-5" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingresa el numero de horas extras trabajadas&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-35" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digita el numero de horas extras trabajadas" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-36" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-7" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingresa el precio por hora&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-37" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digita el precio por hora trabajada" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-38" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el salario base de acuerdo a la formula Sueldo base = (hora extra * 25% + hora normal) * precio hora" vertex="1">
+          <mxGeometry height="80" width="140" x="630" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-39" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-10" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El sueldo base es: n Bolívares&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-40" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el descuento por paro forzoso en base a la formula Paro forzoso =&amp;nbsp; Sueldo base * 5%" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-41" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-12" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El descuento por paro forzoso es: n Bolívares&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-42" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el descuento por política habitacional en base a la formula Política habitacional = Sueldo base * 7%" vertex="1">
+          <mxGeometry height="80" width="140" x="630" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-43" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-14" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El descuento por Politica habitacional es: n Bolívares&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-44" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el descuento por caja de ahorro en base a la formula Caja de ahorro = Sueldo base * 7%" vertex="1">
+          <mxGeometry height="80" width="140" x="630" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-45" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-17" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El descuento por Caja de ahorro es: n Bolívares&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-46" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el total de descuento en base a la formula Deducciones = Paro forzoso + Política habitacional + Caja de ahorro" vertex="1">
+          <mxGeometry height="80" width="160" x="620" y="1960" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-47" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-19" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El total de deducciones es: n Bolívares&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-50" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar la cantidad de hijos" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="2440" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-48" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-21" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El bono por actualización académica es: 25000 Bolivares&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="2200" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-49" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-22" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingresa la cantidad de hijos para calcular el bono por hijo&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-51" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el bono por hijo en base a la formula Bono total de hijos = cantidad hijos * 17300 Bolivares" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="2560" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-52" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-24" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El bono total de hijos es: n Bolívares&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="2680" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-54" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el total de asignaciones en base a la formula Asignaciones = Actualización académica + Bono total de hijos + Prima hogar" vertex="1">
+          <mxGeometry height="80" width="180" x="610" y="2920" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-53" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-26" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El bono por prima de hogar es: 18000 Bolívares" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="2800" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-55" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-27" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El total de asignaciones es: n Bolivares&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="3040" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-56" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el sueldo neto en base a la formula Sueldo neto = Sueldo base - Deducciones + Asignaciones" vertex="1">
+          <mxGeometry height="80" width="140" x="630" y="3160" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-58" edge="1" parent="1" source="IEBYq7RDZZtrvj_1ULn4-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IEBYq7RDZZtrvj_1ULn4-57" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-29" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El sueldo neto es: n Bolívares&quot;&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="3280" as="geometry" />
+        </mxCell>
+        <mxCell id="IEBYq7RDZZtrvj_1ULn4-57" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Fin" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="3400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

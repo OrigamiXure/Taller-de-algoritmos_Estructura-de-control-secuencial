@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="hCJErF4GQ5iWcJvTdh21">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x45kEyjCfmO44PR1RyEf-15" edge="1" parent="1" source="x45kEyjCfmO44PR1RyEf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x45kEyjCfmO44PR1RyEf-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-16" edge="1" parent="1" source="x45kEyjCfmO44PR1RyEf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x45kEyjCfmO44PR1RyEf-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Precio compra, Cuotas = 12, Bolivares" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-18" edge="1" parent="1" source="x45kEyjCfmO44PR1RyEf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x45kEyjCfmO44PR1RyEf-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar el precio de compra" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-17" edge="1" parent="1" source="x45kEyjCfmO44PR1RyEf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x45kEyjCfmO44PR1RyEf-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-4" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingresa el precio de compra&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-19" edge="1" parent="1" source="x45kEyjCfmO44PR1RyEf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x45kEyjCfmO44PR1RyEf-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-5" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingresa la cantidad de bolívares a pagar por mes&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-20" edge="1" parent="1" source="x45kEyjCfmO44PR1RyEf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x45kEyjCfmO44PR1RyEf-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar la cantidad de bolívares a pagar por mes" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-21" edge="1" parent="1" source="x45kEyjCfmO44PR1RyEf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x45kEyjCfmO44PR1RyEf-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el total del crédito en base a la formula Total crédito = cuotas * bolívares" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-22" edge="1" parent="1" source="x45kEyjCfmO44PR1RyEf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x45kEyjCfmO44PR1RyEf-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-9" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El total a pagar por el crédito es: n&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-23" edge="1" parent="1" source="x45kEyjCfmO44PR1RyEf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x45kEyjCfmO44PR1RyEf-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el recargo en base a la formula Recargo = Total crédito - Precio compra" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-24" edge="1" parent="1" source="x45kEyjCfmO44PR1RyEf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x45kEyjCfmO44PR1RyEf-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-11" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El recargo es: n&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-25" edge="1" parent="1" source="x45kEyjCfmO44PR1RyEf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x45kEyjCfmO44PR1RyEf-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el porcentaje de recargo en base a la formula Porcentaje recargo = (Recargo * 100) / Precio compra" vertex="1">
+          <mxGeometry height="80" width="140" x="350" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-26" edge="1" parent="1" source="x45kEyjCfmO44PR1RyEf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x45kEyjCfmO44PR1RyEf-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-13" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El porcentaje de recargo es: n %&quot;&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="x45kEyjCfmO44PR1RyEf-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Fin" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1480" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

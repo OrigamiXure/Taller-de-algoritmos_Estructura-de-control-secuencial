@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="O6ezB9jb7QJrqzqHHhwr">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3xxH5CwoVv0lbi4XnKt5-1" edge="1" parent="1" source="fkr8y0b0gXqrm2czhoYd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fkr8y0b0gXqrm2czhoYd-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkr8y0b0gXqrm2czhoYd-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fkr8y0b0gXqrm2czhoYd-8" edge="1" parent="1" source="fkr8y0b0gXqrm2czhoYd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fkr8y0b0gXqrm2czhoYd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkr8y0b0gXqrm2czhoYd-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar la cantidad de capital invertido" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="3xxH5CwoVv0lbi4XnKt5-2" edge="1" parent="1" source="fkr8y0b0gXqrm2czhoYd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fkr8y0b0gXqrm2czhoYd-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkr8y0b0gXqrm2czhoYd-3" parent="1" style="shape=display;whiteSpace=wrap;html=1;size=0.20666666666666667;" value="&quot;Ingresa el capital invertido en el banco&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="3xxH5CwoVv0lbi4XnKt5-3" edge="1" parent="1" source="fkr8y0b0gXqrm2czhoYd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fkr8y0b0gXqrm2czhoYd-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkr8y0b0gXqrm2czhoYd-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el 2% de razón mensual en base a la formula Dinero ganado = Capital invertido * 2%" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="3xxH5CwoVv0lbi4XnKt5-4" edge="1" parent="1" source="fkr8y0b0gXqrm2czhoYd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="759.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fkr8y0b0gXqrm2czhoYd-5" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El dinero ganado del banco es: n&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="fkr8y0b0gXqrm2czhoYd-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Fin" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="y-8SoIfZ6FXIwXSJaXBn-1" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Capital invertido" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

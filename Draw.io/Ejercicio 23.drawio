@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="1h4aSAYUqYMNZhVVH0gO">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jYjlyBTdRzxflem11C3P-10" edge="1" parent="1" source="jYjlyBTdRzxflem11C3P-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jYjlyBTdRzxflem11C3P-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYjlyBTdRzxflem11C3P-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jYjlyBTdRzxflem11C3P-11" edge="1" parent="1" source="jYjlyBTdRzxflem11C3P-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jYjlyBTdRzxflem11C3P-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYjlyBTdRzxflem11C3P-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Harina = 452, Aceite = 197, Bs1 = 132, Bs2 =180, Bs3 = 7.50, Bs4 = 14.50" vertex="1">
+          <mxGeometry height="80" width="140" x="350" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jYjlyBTdRzxflem11C3P-12" edge="1" parent="1" source="jYjlyBTdRzxflem11C3P-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jYjlyBTdRzxflem11C3P-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYjlyBTdRzxflem11C3P-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula la cantidad de bultos de harina en base a la formula Bulto harina = Harina / 24" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="jYjlyBTdRzxflem11C3P-13" edge="1" parent="1" source="jYjlyBTdRzxflem11C3P-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jYjlyBTdRzxflem11C3P-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYjlyBTdRzxflem11C3P-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula la harina sobrante en base a la formula Harina sobrante = Harina mod 24" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="jYjlyBTdRzxflem11C3P-14" edge="1" parent="1" source="jYjlyBTdRzxflem11C3P-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jYjlyBTdRzxflem11C3P-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYjlyBTdRzxflem11C3P-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula la cantidad de cajas de aceite en base a la formula Cajas aceite = aceite&amp;nbsp; / 15" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="jYjlyBTdRzxflem11C3P-15" edge="1" parent="1" source="jYjlyBTdRzxflem11C3P-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jYjlyBTdRzxflem11C3P-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYjlyBTdRzxflem11C3P-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el aceite sobrante en base a la formula Aceite sobrante = aceite mod 15" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="jYjlyBTdRzxflem11C3P-16" edge="1" parent="1" source="jYjlyBTdRzxflem11C3P-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jYjlyBTdRzxflem11C3P-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYjlyBTdRzxflem11C3P-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el ingreso en base a la formula Ingreso = ((Bulto harina * Bs1) + (Cajas aceite * Bs2) + (Harina sobrante * Bs3) + (Aceite sobrante * Bs4)" vertex="1">
+          <mxGeometry height="80" width="180" x="330" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="jYjlyBTdRzxflem11C3P-17" edge="1" parent="1" source="jYjlyBTdRzxflem11C3P-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jYjlyBTdRzxflem11C3P-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYjlyBTdRzxflem11C3P-8" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El ingreso total es: n bs&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="jYjlyBTdRzxflem11C3P-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Fin" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1000" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

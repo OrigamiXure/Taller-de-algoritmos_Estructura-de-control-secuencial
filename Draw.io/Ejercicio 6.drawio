@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="caWF7HQxT9zOp501P5j0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GqANWR9K3RfI6ynUpwHO-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GqANWR9K3RfI6ynUpwHO-13" edge="1" parent="1" source="GqANWR9K3RfI6ynUpwHO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GqANWR9K3RfI6ynUpwHO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GqANWR9K3RfI6ynUpwHO-2" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingresar el número de hombres&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="GqANWR9K3RfI6ynUpwHO-15" edge="1" parent="1" source="GqANWR9K3RfI6ynUpwHO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GqANWR9K3RfI6ynUpwHO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GqANWR9K3RfI6ynUpwHO-3" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingresa el numero de mujeres&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="GqANWR9K3RfI6ynUpwHO-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar el numero de hombres&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="GqANWR9K3RfI6ynUpwHO-16" edge="1" parent="1" source="GqANWR9K3RfI6ynUpwHO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GqANWR9K3RfI6ynUpwHO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GqANWR9K3RfI6ynUpwHO-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar el numero de mujeres" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="GqANWR9K3RfI6ynUpwHO-17" edge="1" parent="1" source="GqANWR9K3RfI6ynUpwHO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GqANWR9K3RfI6ynUpwHO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GqANWR9K3RfI6ynUpwHO-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el porcentaje de hombres en base a la formula Porcentaje hombres = (Numero hombres * 100) / (Numero de hombres + Numero mujeres)" vertex="1">
+          <mxGeometry height="80" width="180" x="330" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="GqANWR9K3RfI6ynUpwHO-18" edge="1" parent="1" source="GqANWR9K3RfI6ynUpwHO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GqANWR9K3RfI6ynUpwHO-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GqANWR9K3RfI6ynUpwHO-8" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El porcentaje de hombres es: n&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="GqANWR9K3RfI6ynUpwHO-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el porcentaje de mujeres en base a la formula Porcentaje mujeres = (Numero mujeres * 100) / (Numero hombres + Numero mujeres)" vertex="1">
+          <mxGeometry height="80" width="180" x="330" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="GqANWR9K3RfI6ynUpwHO-20" edge="1" parent="1" source="GqANWR9K3RfI6ynUpwHO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GqANWR9K3RfI6ynUpwHO-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GqANWR9K3RfI6ynUpwHO-10" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El porcentaje de mujeres es: n&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="GqANWR9K3RfI6ynUpwHO-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Fin" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="GqANWR9K3RfI6ynUpwHO-12" edge="1" parent="1" source="GqANWR9K3RfI6ynUpwHO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=55;entryDy=0;entryPerimeter=0;" target="GqANWR9K3RfI6ynUpwHO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GqANWR9K3RfI6ynUpwHO-14" edge="1" parent="1" source="GqANWR9K3RfI6ynUpwHO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=55;entryDy=0;entryPerimeter=0;" target="GqANWR9K3RfI6ynUpwHO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GqANWR9K3RfI6ynUpwHO-19" edge="1" parent="1" source="GqANWR9K3RfI6ynUpwHO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=55;entryDy=0;entryPerimeter=0;" target="GqANWR9K3RfI6ynUpwHO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kYg0Dd6XR7WEz_8fVrRW-1" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Numero hombres, Numero mujeres" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="n5gLaMxM6H5egFUmtGs-">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FQmTnSUjhcFkjnVdQtsB-12" edge="1" parent="1" source="FQmTnSUjhcFkjnVdQtsB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FQmTnSUjhcFkjnVdQtsB-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FQmTnSUjhcFkjnVdQtsB-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FQmTnSUjhcFkjnVdQtsB-15" edge="1" parent="1" source="FQmTnSUjhcFkjnVdQtsB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FQmTnSUjhcFkjnVdQtsB-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FQmTnSUjhcFkjnVdQtsB-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar la longitud del primer lado del triangulo" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="FQmTnSUjhcFkjnVdQtsB-13" edge="1" parent="1" source="FQmTnSUjhcFkjnVdQtsB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FQmTnSUjhcFkjnVdQtsB-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FQmTnSUjhcFkjnVdQtsB-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="lado1, lado2, lado3." vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FQmTnSUjhcFkjnVdQtsB-14" edge="1" parent="1" source="FQmTnSUjhcFkjnVdQtsB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FQmTnSUjhcFkjnVdQtsB-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FQmTnSUjhcFkjnVdQtsB-4" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingresa la longitud del primer lado del triangulo&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="FQmTnSUjhcFkjnVdQtsB-16" edge="1" parent="1" source="FQmTnSUjhcFkjnVdQtsB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FQmTnSUjhcFkjnVdQtsB-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FQmTnSUjhcFkjnVdQtsB-5" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingrese la longitud del segundo lado del triangulo" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="FQmTnSUjhcFkjnVdQtsB-17" edge="1" parent="1" source="FQmTnSUjhcFkjnVdQtsB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FQmTnSUjhcFkjnVdQtsB-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FQmTnSUjhcFkjnVdQtsB-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar la longitud del segundo lado del triangulo" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="FQmTnSUjhcFkjnVdQtsB-18" edge="1" parent="1" source="FQmTnSUjhcFkjnVdQtsB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FQmTnSUjhcFkjnVdQtsB-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FQmTnSUjhcFkjnVdQtsB-7" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingresa la longitud del tercer lado del triangulo&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="FQmTnSUjhcFkjnVdQtsB-19" edge="1" parent="1" source="FQmTnSUjhcFkjnVdQtsB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FQmTnSUjhcFkjnVdQtsB-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FQmTnSUjhcFkjnVdQtsB-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar la longitud del tercer lado del triangulo" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="FQmTnSUjhcFkjnVdQtsB-20" edge="1" parent="1" source="FQmTnSUjhcFkjnVdQtsB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FQmTnSUjhcFkjnVdQtsB-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FQmTnSUjhcFkjnVdQtsB-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se hace calculo en base a la formula&amp;nbsp;√p(p­a)(p­b)(p­c) = n donde p = (a+b+c) / 2" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="FQmTnSUjhcFkjnVdQtsB-21" edge="1" parent="1" source="FQmTnSUjhcFkjnVdQtsB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FQmTnSUjhcFkjnVdQtsB-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FQmTnSUjhcFkjnVdQtsB-10" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El área del triangulo es: n&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="FQmTnSUjhcFkjnVdQtsB-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Fin" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="1240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

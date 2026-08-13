@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="gQpF0gj3j1kgI2rWu04S">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O2zYag1EjKmdRp27nYrm-1" edge="1" parent="1" source="5l6r_jPqp9YXy6igkq_e-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5qCwMRwebBVw18U1xtcT-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5qCwMRwebBVw18U1xtcT-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="362" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O2zYag1EjKmdRp27nYrm-6" edge="1" parent="1" source="5qCwMRwebBVw18U1xtcT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5qCwMRwebBVw18U1xtcT-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5qCwMRwebBVw18U1xtcT-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar sueldo base del vendedor" vertex="1">
+          <mxGeometry height="80" width="120" x="362" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="O2zYag1EjKmdRp27nYrm-3" edge="1" parent="1" source="5qCwMRwebBVw18U1xtcT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5qCwMRwebBVw18U1xtcT-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5qCwMRwebBVw18U1xtcT-3" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingresa el sueldo base&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="362" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="5qCwMRwebBVw18U1xtcT-15" edge="1" parent="1" source="5qCwMRwebBVw18U1xtcT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5qCwMRwebBVw18U1xtcT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5qCwMRwebBVw18U1xtcT-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitar número de comisiones del mes" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="O2zYag1EjKmdRp27nYrm-7" edge="1" parent="1" source="5qCwMRwebBVw18U1xtcT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5qCwMRwebBVw18U1xtcT-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5qCwMRwebBVw18U1xtcT-5" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingresa el número de comisiones del mes&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="O2zYag1EjKmdRp27nYrm-8" edge="1" parent="1" source="5qCwMRwebBVw18U1xtcT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5qCwMRwebBVw18U1xtcT-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5qCwMRwebBVw18U1xtcT-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el dinero ganado por comisiones en base a la formula Comisiones mes = Sueldo base * comisiones * 10%" vertex="1">
+          <mxGeometry height="80" width="164" x="340" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="5qCwMRwebBVw18U1xtcT-17" edge="1" parent="1" source="5qCwMRwebBVw18U1xtcT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5qCwMRwebBVw18U1xtcT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5qCwMRwebBVw18U1xtcT-7" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Dinero obtenido por comisiones:&amp;nbsp; n&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="O2zYag1EjKmdRp27nYrm-10" edge="1" parent="1" source="5qCwMRwebBVw18U1xtcT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5qCwMRwebBVw18U1xtcT-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5qCwMRwebBVw18U1xtcT-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el sueldo total en base a la formula Sueldo total = Sueldo base + Comisiones mes" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="5qCwMRwebBVw18U1xtcT-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Fin" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="O2zYag1EjKmdRp27nYrm-12" edge="1" parent="1" source="5qCwMRwebBVw18U1xtcT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5qCwMRwebBVw18U1xtcT-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5qCwMRwebBVw18U1xtcT-10" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El sueldo total es: n&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="5l6r_jPqp9YXy6igkq_e-2" edge="1" parent="1" source="5qCwMRwebBVw18U1xtcT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5l6r_jPqp9YXy6igkq_e-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="422" y="120" as="sourcePoint" />
+            <mxPoint x="422" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5l6r_jPqp9YXy6igkq_e-1" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Sueldo base, Comisiones" vertex="1">
+          <mxGeometry height="80" width="120" x="362" y="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

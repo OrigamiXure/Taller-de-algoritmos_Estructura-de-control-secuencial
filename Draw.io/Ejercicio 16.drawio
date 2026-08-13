@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="uhswQ9ut17SXNWTEqW5x">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e11TcjAzM7vRCTJqZUxG-8" edge="1" parent="1" source="e11TcjAzM7vRCTJqZUxG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="e11TcjAzM7vRCTJqZUxG-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e11TcjAzM7vRCTJqZUxG-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e11TcjAzM7vRCTJqZUxG-9" edge="1" parent="1" source="e11TcjAzM7vRCTJqZUxG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="e11TcjAzM7vRCTJqZUxG-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e11TcjAzM7vRCTJqZUxG-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Largo lamina = 4, Ancho lamina = 4.5, Pieza fabricada = 0.5" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="e11TcjAzM7vRCTJqZUxG-10" edge="1" parent="1" source="e11TcjAzM7vRCTJqZUxG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="e11TcjAzM7vRCTJqZUxG-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e11TcjAzM7vRCTJqZUxG-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el número de piezas por lamina en base a la formula Piezas lamina = Largo lamina * Ancho lamina / Pieza fabricada" vertex="1">
+          <mxGeometry height="80" width="160" x="340" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="e11TcjAzM7vRCTJqZUxG-11" edge="1" parent="1" source="e11TcjAzM7vRCTJqZUxG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="e11TcjAzM7vRCTJqZUxG-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e11TcjAzM7vRCTJqZUxG-4" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El número de piezas que se pueden fabricar por lámina es: n piezas" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="e11TcjAzM7vRCTJqZUxG-12" edge="1" parent="1" source="e11TcjAzM7vRCTJqZUxG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="e11TcjAzM7vRCTJqZUxG-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e11TcjAzM7vRCTJqZUxG-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se calcula el desperdicio por lamina en base a la formula Desperdicio por lamina = (Largo lamina * Ancho Lamina) - (Piezas por lamina * Pieza fabricada)" vertex="1">
+          <mxGeometry height="80" width="180" x="330" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="e11TcjAzM7vRCTJqZUxG-13" edge="1" parent="1" source="e11TcjAzM7vRCTJqZUxG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="e11TcjAzM7vRCTJqZUxG-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e11TcjAzM7vRCTJqZUxG-6" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;El desperdicio por lamina es: n metros cuadrados&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="e11TcjAzM7vRCTJqZUxG-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Fin" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="760" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
