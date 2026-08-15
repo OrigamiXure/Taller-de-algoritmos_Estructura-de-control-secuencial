@@ -1,1 +1,1 @@
-# Taller-de-algoritmos-_-Estructura-de-control-secuencial
+# Taller de algoritmos - Estructura de control secuencial
